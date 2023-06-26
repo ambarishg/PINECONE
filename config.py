@@ -1,9 +1,9 @@
 MODEL_NAME="all-MiniLM-L6-v2"
 MODEL_NAME_CLIP="clip-ViT-B-32"
-PINECONE_API_KEY="e72e0b7c-e243-41eb-b497-3fc23b3105fb"
-PINECONE_INDEX_NAME="docs"
-PINECONE_REGION="us-east1-gcp"
-OPEN_AI_API_KEY="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"
-aws_access_key_id = 'AKIARUWL4HKDI7TG3XVC'
-aws_secret_access_key = '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'
-IMAGES_PATH ="C:/Ambarish/shopppeedata2/"
+PINECONE_API_KEY=""
+PINECONE_INDEX_NAME=""
+PINECONE_REGION=""
+OPEN_AI_API_KEY=""
+aws_access_key_id = ''
+aws_secret_access_key = ''
+IMAGES_PATH =""
