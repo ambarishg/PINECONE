@@ -1,7 +1,7 @@
 import openai
-key = 'd6bcc40e68fc4119abcd43b4661dc8e3'
+key = ''
 location = 'eastus'
-endpoint = 'https://openaidemos007.openai.azure.com/'
+endpoint = ''
 openai.api_type = "azure"
 openai.api_key = key
 openai.api_base = endpoint
